@@ -1,0 +1,10 @@
+name: teste
+version: 0.0.0
+description: >-
+  Não tem
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  
+dev_dependencies:
+  
